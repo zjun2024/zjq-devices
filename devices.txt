@@ -3,3 +3,5 @@ allow:d62670ff5428a463 Redmi K50
 
 
 allow:f5922508192292d9 Xiaomi 15
+
+allow:694a086668b37fe9 Xiaomi 15
