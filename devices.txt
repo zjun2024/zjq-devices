@@ -5,3 +5,5 @@ allow:694a086668b37fe9 Xiaomi 15
 
 
 
+
+allow:bbd744916ab4fdcf Mi 10S
