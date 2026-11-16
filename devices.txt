@@ -7,3 +7,5 @@ allow:bbd744916ab4fdcf Mi 10S
 
 
 
+
+allow:8c62d1210158878f OPPO PEYM00
