@@ -2,10 +2,10 @@ allow:d62670ff5428a463 Redmi K50
 allow:f5922508192292d9 Xiaomi 15
 allow:694a086668b37fe9 Xiaomi 15
 allow:bbd744916ab4fdcf Mi 10S
-
-
-
-
-
-
 allow:8c62d1210158878f OPPO PEYM00
+
+
+
+
+
+
